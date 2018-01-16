@@ -38,7 +38,7 @@ During the same time frame Brian Brady had picked up a meetup page from a previo
 Brian used this opportunity to call an election to form a steering committee.
 Somewhere along the line in 2015 a board of directors formed eventually from this seed with Steve as part.
 
-![Prototyping](www.deabute.com/assets/img/prototyping.jpg)
+![Prototyping](PaulBeaudet.github.io/assets/img/prototyping.jpg)
 
 Now I say somewhere along the line...
 There where quite a few people involved in helping found the makerspace, too numerous to mention all in this short post.
@@ -49,14 +49,14 @@ My involvement in Manchester Makerspace intensified shortly before the lease was
 It was after this point I became a board member helping get the right folks involved, and build out the space.
 After a bit of a struggle to get occupancy we opened in August of 2016.
 
-![Woodshop](www.deabute.com/assets/img/woodshop.jpg)
+![Woodshop](PaulBeaudet.github.io/assets/img/woodshop.jpg)
 
 Inevitably we have folks attend our weekly open houses and are excited to learn there is a great and versatile makerspace in their city.
 Many times to them the idea is so new and novel, something they just read about.
 Its still hard to comprehend that its a space that contains Wood, Metal, Prototyping and Automotive shops all in one.
 All while managing to be an inclusive social community of creative people at the same time.
 
-![Machineshop](www.deabute.com/assets/img/machine-shop.jpg)
+![Machineshop](PaulBeaudet.github.io/assets/img/machine-shop.jpg)
 
 I'm writing this in January of 2018 reflecting upon the events to this point.
 Work does still needs to be done, for sure.
