@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'CV', folder: 'pages', file: 'cv.html'}
+- {name: 'Experiences', folder: 'pages', file: 'experiences.html'}
 - {name: 'Photography', folder: 'pages', file: 'photography.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
