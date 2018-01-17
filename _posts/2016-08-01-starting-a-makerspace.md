@@ -11,10 +11,14 @@ The idea of a having a makerspace in Manchester NH is a long time in progress.
 This is a recount of the history of the founding from my own perspective.
 It's actually more complicated then this but, for the sake of summary I'll just cover the highlight reel.
 
+![Southbend](/assets/img/southbend.jpg)
+
 For me the idea started in 2010 and back then it was a lot of talk, research, and presentations.
 There was a lot of realization about the difficulty an the topic of Hackerspaces was still a bit of an underground movement.
 Eventually I ran out of fumes trying to do things on my own.
 Which can be seen in rare blog that I wrote at the time <http://paulbeaudet.blogspot.com/2011/01/update-hacker-space.html>
+
+![Bridgport](/assets/img/bridgport.jpg)
 
 In the mean time afterwards there was quite a bit of interest and false starts.
 Somewhere between 2012-2014 the idea of makerspaces really started to take hold in the minds of the general public.
@@ -23,10 +27,14 @@ The lack of awareness between individual parties almost became a running joke in
 Almost inevitably there was always a new person coming into monthly show and tells that wanted to start-up a space.
 "Which makerspace guy are we talking about?, oh I thought you were talking about the other one"
 
+![mig](/assets/img/mig.jpg)
+
 Understandably at one point I got a bit skeptical of who was actually interested in getting a space together.
 Particularly knowing it was going to take more than one person to get it together.
 Which could be the topic of a few side tangents.
 However slowly the right people started talking to each other
+
+![Woodshop](/assets/img/woodshop.jpg)
 
 Sometime in late 2014 I was connected with Steve Korzyniowski.
 Steve was very adamant that this was something that needed to happen Manchester.
@@ -49,7 +57,7 @@ My involvement in Manchester Makerspace intensified shortly before the lease was
 It was after this point I became a board member helping get the right folks involved, and build out the space.
 After a bit of a struggle to get occupancy we opened in August of 2016.
 
-![Woodshop](/assets/img/woodshop.jpg)
+![makerspace](/assets/img/makerspace.jpg)
 
 Inevitably we have folks attend our weekly open houses and are excited to learn there is a great and versatile makerspace in their city.
 Many times to them the idea is so new and novel, something they just read about.
