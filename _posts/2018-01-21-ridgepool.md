@@ -8,7 +8,7 @@ image: hiking/ridgepool/P1110631.jpg
 ---
 Secluded hike with a view towards frozen Squam Lake
 
-![](/assets/img/hiking/ridgepool/P1110552.jpg)
+![](/assets/img/hiking/ridgepool/P1110623.jpg)
 
 Exploring the unbroken snow covered northern part of the Ridgepool trail
 
