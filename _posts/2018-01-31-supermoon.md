@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Red Blue Bikeshed Moon"
+author: "Paul Beaudet"
+categories: photography
+tags: [hiking]
+image: super_moon.jpg
+---
+
+Spent some time on Rimmon tonight looking for the moon to rise at the wrong time, stop to talk to someone on the way down and there it was!
