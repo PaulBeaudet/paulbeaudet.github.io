@@ -7,4 +7,4 @@ tags: [hiking]
 image: super_moon.jpg
 ---
 
-Spent some time on Rimmon tonight looking for the moon to rise at the wrong time, stop to talk to someone on the way down and there it was!
+Spent some time on Rimmon tonight looking for the moon to rise at the wrong time, stopped to talk to someone on the way down and there it was!
