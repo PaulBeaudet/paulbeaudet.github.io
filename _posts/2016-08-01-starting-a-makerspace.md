@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Makerspace"
 author: "Paul Beaudet"
-categories: experiences
+categories: projects
 tags: []
 image: makerspace-wide.jpg
 ---
