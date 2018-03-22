@@ -3,7 +3,7 @@ layout: misc
 title: Paul Beaudet
 ---
 
-![Profile Picture](https://paulbeaudet.github.io/website/assets/img/profile142.jpg) 
+![Profile Picture](/assets/img/profile142.jpg)
 
 ## Bio
 
