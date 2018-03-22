@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:       "Paul Beaudet"
-description: "Landing Page"
-author:      "Yours truely"
+description: "Personal page outlining hiking adventures and geeky projects"
+author:      "Paul Beaudet"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
