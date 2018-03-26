@@ -3,7 +3,7 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-google-ID: 'UA-113167949-1'
+google-ID: 'UA-113167949-2'
 
 menu:
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
