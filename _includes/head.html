@@ -33,4 +33,9 @@
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
 
+  <!-- Contact Page functions -->
+  {% if page.title == "testcontact"%}
+    {% include contact-page %}
+  {% endif %}
+
 </head>
