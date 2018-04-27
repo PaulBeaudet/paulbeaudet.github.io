@@ -4,9 +4,8 @@ title: testcontact
 ---
 
 <form method="POST" action="https://827872mihl.execute-api.us-east-1.amazonaws.com/dev/contact" onsubmit="return submitForm(this);">
-  <input type="hidden" value="person"   name="user" />
-  <input type="hidden" value="password" name="pwd" />
-  <input type="hidden" value="place"    name="organization" />
-  <input type="hidden" value="key"      name="requiredkey" />
-  <input type="submit" value="post request"/>
+  <input type="text" name="fullname" />
+  <input type="email" name="email" />
+  <input type="text" name="message" />
+  <input type="submit" value="submit"/>
 </form>
