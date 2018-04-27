@@ -3,4 +3,10 @@ layout: page
 title: testcontact
 ---
 
-<button type="button" onclick="contactOnSubmit()"> Say Hello!</button>
+<form method="POST" action="https://827872mihl.execute-api.us-east-1.amazonaws.com/dev/contact" onsubmit="return submitForm(this);">
+  <input type="hidden" value="person"   name="user" />
+  <input type="hidden" value="password" name="pwd" />
+  <input type="hidden" value="place"    name="organization" />
+  <input type="hidden" value="key"      name="requiredkey" />
+  <input type="submit" value="post request"/>
+</form>
