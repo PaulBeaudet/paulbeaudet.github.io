@@ -1,14 +1,22 @@
 <script>
-    function submitForm(formObject){
-        var xmlHttp = new XMLHttpRequest();
-        xmlHttp.onreadystatechange = function onResponse(){
-            if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
-                console.log(xmlHttp.responseText);
-            }
-        }
-        xmlHttp.open(formObject.method, formObject.action, true);
-        xmlHttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-        xmlHttp.send(new FormData(formObject));
-        return false;
-    }
+    $(document).ready(function() {
+        $("#submitForm").click(function(clickEvent) {
+            clickEvent.preventDefault(); // prevents new page from loading
+            $.ajax({
+                type: 'POST',
+                url: 'https://827872mihl.execute-api.us-east-1.amazonaws.com/dev/contact',
+                contentType: 'application/json',
+                data: JSON.stringify({
+                    'name': $('#name').val(),
+                    'email': $('#email').val(),
+                    'message': $('#message').val()
+                }),
+                success: function(res){
+                    console.log(JSON.stringify(res, null, 4));
+                    $('#form-response').text('Email was sent.');
+                },
+                error: function(){$('#form-response').text('Error.');}
+            });
+        })
+    });
 </script>
