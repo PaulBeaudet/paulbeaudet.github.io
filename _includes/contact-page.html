@@ -5,12 +5,13 @@
             $.ajax({
                 type: 'POST',
                 url: 'https://827872mihl.execute-api.us-east-1.amazonaws.com/dev/contact',
+                crossDomain: true,
                 contentType: 'application/json',
-                data: JSON.stringify({
+                data: {
                     'name': $('#name').val(),
                     'email': $('#email').val(),
                     'message': $('#message').val()
-                }),
+                },
                 success: function(res){
                     console.log(JSON.stringify(res, null, 4));
                     $('#form-response').text('Email was sent.');
