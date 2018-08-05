@@ -49,7 +49,7 @@ Travis the grotto cave man.
 
 Another picture from the cave area. Fell on some rocks and scaled a small cliff to get to this little pile of rocks. If more into the journey then the destination then 10 out of 10 would fall again.
 
-<object data="https://youtu.be/6d8Tb6p5tvM" width="1280" hight="720"></object>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6d8Tb6p5tvM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Going to start experimenting with time-lapse again.
 
