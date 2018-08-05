@@ -49,6 +49,10 @@ Travis the grotto cave man.
 
 Another picture from the cave area. Fell on some rocks and scaled a small cliff to get to this little pile of rocks. If more into the journey then the destination then 10 out of 10 would fall again.
 
+<object data="https://youtu.be/6d8Tb6p5tvM" width="1280" hight="720"></object>
+
+Going to start experimenting with time-lapse again.
+
 ![](/assets/img/hiking/cardigan/P1140459.jpg)
 
 Some say its impossible to squeeze water out of a rock, but we drank from this one.
