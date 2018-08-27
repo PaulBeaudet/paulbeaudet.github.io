@@ -4,7 +4,7 @@ title: "Mountain Tramping"
 author: "Paul Beaudet"
 categories: photography
 tags: [hiking]
-image: hiking/mtnbaggn/P1140850.jpg)
+image: hiking/mtnbaggn/P1140850.jpg
 ---
 
 Slug tripping on a mushroom.
