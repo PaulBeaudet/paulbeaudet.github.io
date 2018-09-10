@@ -4,7 +4,7 @@ title: "Isolation"
 author: "Paul Beaudet"
 categories: photography
 tags: [hiking]
-image: hiking/isolation/2018-09-09 12.13.17_01.jpg
+image: hiking/isolation/2018-09-09-12-13-17.jpg
 ---
 
 Number 47, Isolation via the Rocky Branch trail. This greyjay came around as soon as I opened my granola bar.
