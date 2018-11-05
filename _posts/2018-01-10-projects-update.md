@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In Progress"
+title: "Jitploy Progress"
 author: "Paul Beaudet"
 categories: projects
 tags: []
@@ -45,3 +45,5 @@ Source for FCM Push notification server:
 
 ## Github Page
 Follow more of my work on Github: <a href="http://github.com/PaulBeaudet" target="_blank">Github page</a>
+
+*UPDATE: Jitploy and HWM are no longer running. May revisit the Jitploy in future for speed and cost purposes. We ended up using console.seed.run for CD when we migrated to using lambda functions at the Makerspace*
