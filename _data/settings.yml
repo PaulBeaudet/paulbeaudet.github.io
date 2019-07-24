@@ -1,10 +1,3 @@
-# Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
-
-google-ID: 'UA-113167949-2'
-
 menu:
 - {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Photography', folder: 'pages', file: 'photography.html'}
